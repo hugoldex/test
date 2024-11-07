@@ -1,1 +1,1 @@
-const TEST = 'aaaaaaa'
+export const TEST = 'aaaaaaa'
