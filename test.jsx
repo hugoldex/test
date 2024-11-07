@@ -1,3 +1,1 @@
-const test = 'aaaaaaa'
-
-var newVar = 'fail-aaaaaaaaaqqaaaaaaaaaaaaaaaa'
+const TEST = 'aaaaaaa'
