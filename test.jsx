@@ -1,3 +1,3 @@
 const test = 'aaaaaaa'
 
-var newVar = 'fail-aaaaaaaqqaaaaaaaa'
+var newVar = 'fail-aaaaaaaqqaaaaaaaaa'
