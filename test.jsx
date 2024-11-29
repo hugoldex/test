@@ -1,2 +1,2 @@
-import testsss from '../../../srcsssssa'
-export const TEST = 'aaaaaaaaaaaaaaaa'
+import testsss from '../../../srcsssssaa'
+export const TEST = 'aaaaaaaaaaaaaaaaa'
