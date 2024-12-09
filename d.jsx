@@ -1,3 +1,3 @@
-const a = 'aaaa'
+const a = 'aaaaa'
 
-var bbb = 'abbb'
+var bbb = 'aabbb'
