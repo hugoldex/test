@@ -1,5 +1,5 @@
 import somehting from '../../../root'
 
-const a  = 'a'
+const a  = 'aa'
 
 var b = 'b'
