@@ -1,3 +1,3 @@
 import somehting from '../../../root'
 
-const a  = 'aaaa'
+const a  = 'aaaaa'
