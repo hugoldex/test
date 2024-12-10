@@ -1,3 +1,3 @@
 export const a = 'ccvcaasaaAaac'
 
-export let bbb = 'baabsacgacaaAabaab'
+export let bbb = 'baabsacgacaaaAabaab'
