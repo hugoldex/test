@@ -1,3 +1,3 @@
-const a = 'cccc'
+const a = 'cccsc'
 
-var bbb = 'baabccabb'
+var bbb = 'baabsccabb'
