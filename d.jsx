@@ -1,3 +1,3 @@
-const a = 'ccvcasaaac'
+const a = 'ccvcasaaAac'
 
-let bbb = 'baabsacgacabaab'
+let bbb = 'baabsacgacaAbaab'
