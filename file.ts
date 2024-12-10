@@ -1,1 +1,3 @@
-const test: string = 'a'
+const test: string = 'aa'
+
+var variable = 'aaa'
